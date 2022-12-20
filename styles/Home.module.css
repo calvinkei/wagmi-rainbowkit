@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+.connectWalletButton {
+  margin-bottom: 2rem;
+  width: 16rem;
+}
+.menuButton {
+  margin-bottom: 1rem;
+  width: 16rem;
+}
